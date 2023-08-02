@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-10\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-10\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-10\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-10\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-10\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-10\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-10\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-10\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.pdb
